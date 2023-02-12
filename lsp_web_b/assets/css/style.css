@@ -1,0 +1,23 @@
+.bg-green-custom {
+  background-color: #57b846;
+}
+
+.text-green-custom {
+  color: #fff;
+  transition: 0.5s ease;
+}
+
+.text-green-custom:hover {
+  color: #c2c2c2;
+}
+
+.btn-green-custom {
+  background-color: #57b846;
+  color: #fff;
+  transition: 0.5s ease;
+}
+
+.btn-green-custom:hover {
+  background-color: #276b1b;
+  color: #fff;
+}
